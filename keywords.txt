@@ -1,0 +1,19 @@
+# Syntax Coloring Map for SmartSW
+
+# Datatypes (KEYWORD1)
+SmartSW          KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin            KEYWORD2
+setButtonColors  KEYWORD2
+setLightState    KEYWORD2
+getLightState    KEYWORD2
+getPhysicalState KEYWORD2
+updateLEDs       KEYWORD2
+readButtons      KEYWORD2
+setBlinkSpeed    KEYWORD2
+
+# Constants (LITERAL1)
+OFF              LITERAL1
+ON               LITERAL1
+BLINKING         LITERAL1
