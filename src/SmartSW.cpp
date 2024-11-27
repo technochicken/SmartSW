@@ -47,7 +47,7 @@ uint8_t SmartSW::getPhysicalState(uint8_t buttonIndex) {
     return _buttons[buttonIndex].physicalState;
 }
 
-void SmartSW::setBlinkSpeed(uint8_t speed){
+void SmartSW::setBlinkSpeed(uint32_t speed){
   _blinkDelay = speed;
 }
 

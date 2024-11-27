@@ -49,7 +49,7 @@ public:
     // Reads and updates the physical states of the buttons
     void loop();
 
-    void setBlinkSpeed(uint8_t speed);
+    void setBlinkSpeed(uint32_t speed);
 
 
 private:
